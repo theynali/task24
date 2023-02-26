@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Endirimcs\Endirimcs\bin\Debug\net6.0\Endirimcs.exe
+C:\Users\User\source\repos\Endirimcs\Endirimcs\bin\Debug\net6.0\Endirimcs.deps.json
+C:\Users\User\source\repos\Endirimcs\Endirimcs\bin\Debug\net6.0\Endirimcs.runtimeconfig.json
+C:\Users\User\source\repos\Endirimcs\Endirimcs\bin\Debug\net6.0\Endirimcs.dll
+C:\Users\User\source\repos\Endirimcs\Endirimcs\bin\Debug\net6.0\Endirimcs.pdb
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.AssemblyInfo.cs
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.dll
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\refint\Endirimcs.dll
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.pdb
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\Endirimcs.genruntimeconfig.cache
+C:\Users\User\source\repos\Endirimcs\Endirimcs\obj\Debug\net6.0\ref\Endirimcs.dll
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\bin\Debug\net6.0\endirimcs.exe
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\bin\Debug\net6.0\endirimcs.deps.json
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\bin\Debug\net6.0\endirimcs.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\bin\Debug\net6.0\endirimcs.dll
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\bin\Debug\net6.0\endirimcs.pdb
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.dll
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\refint\endirimcs.dll
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.pdb
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\endirimcs.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Endirimcs\endirimcs\obj\Debug\net6.0\ref\endirimcs.dll
